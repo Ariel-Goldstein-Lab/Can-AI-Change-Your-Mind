@@ -13,8 +13,8 @@ The Backgrounds were randomized from the list:
 7) קופאי בבנק
 8) עובד בניה ותשתיות
 9) עובד סוציאלי בקהילה
+   
 The names were randomized from the list:
-
 
 1) איתי כהן
 2) עמיתי בראל
