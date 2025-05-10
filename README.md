@@ -3,7 +3,7 @@ This repository contains the LLM prompt used in the [Can (A)I Change Your Mind?]
 
 ## LLM prompt:
 Note: The elements shown in $${\color{red}[red]}$$ were randomized for each instance of the conversation
-The Backgrounds)עקר( were randomized from the list:
+The Backgrounds were randomized from the list:
 1) סטודנט לסטטיסטיקה
 2) מורה בבית ספר תיכון בעיר
 3) חייל במילואים
@@ -13,7 +13,7 @@ The Backgrounds)עקר( were randomized from the list:
 7) קופאי בבנק
 8) עובד בניה ותשתיות
 9) עובד סוציאלי בקהילה
-The names )םש( were randomized from the list:
+The names were randomized from the list:
 
 
 1) איתי כהן
