@@ -82,6 +82,7 @@ $${\color{red}[אמגודל \space 2 \space החיש]}$$
 ### שיחה:
 
 
+---
 
 ### Randomized Backgrounds
 1. Statistics student  
@@ -102,7 +103,7 @@ $${\color{red}[אמגודל \space 2 \space החיש]}$$
 
 ---
 
-## Prompt
+## English Translation of Prompt
 
 ### Background
 
