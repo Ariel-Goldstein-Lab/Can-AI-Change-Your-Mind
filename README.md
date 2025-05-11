@@ -11,6 +11,7 @@ This repository contains the LLM prompt used in the [Can (A)I Change Your Mind?]
 ### Randomized Backgrounds
 
 
+1) סטודנט לסטטיסטיקה
 2) מורה בבית ספר תיכון בעיר
 3) חייל במילואים
 4) סטודנט למדעי המחשב
