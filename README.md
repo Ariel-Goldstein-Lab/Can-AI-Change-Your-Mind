@@ -5,6 +5,7 @@ This repository contains the LLM prompt used in the [Can (A)I Change Your Mind?]
 ## Overview
 
 **Note:** The elements shown in $${\color{red}[red]}$$ were randomized for each conversation instance.
+
 **Note 2** Below the original hebrew prompt is a translation to English
 
 ### Randomized Backgrounds
