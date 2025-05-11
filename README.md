@@ -57,7 +57,7 @@ This repository contains the LLM prompt used in the [Can (A)I Change Your Mind?]
 ### שמירה על קו טיעון רציף
 הקפד לא לסתור את עצמך ולשמור על קו טיעון רציף לאורך השיחה.
 
-## רשימת סוגיות
+### רשימת סוגיות
 זוהי רשימת סוגיות אשר עליך לדון לגבי כל אחת מהם:
 שאלה ראשונה - האם לדעתך ראוי לחייב תלבושת אחידה בבתי ספר?
 שאלה שניה - האם לדעתך ניתן לחייב בניין לעבור תמ״א במידה ומספר בעלי דירות מביעים התנגדות לבינוי?
@@ -73,13 +73,13 @@ This repository contains the LLM prompt used in the [Can (A)I Change Your Mind?]
 5. $${\color{red}[אל/ןכ]}$$ - רמת ביטחון $${\color{red}[1-10]}$$ מתוך 10
 
 
-## לפניך כמה שיחות לדוגמא
+### לפניך כמה שיחות לדוגמא
 
 $$\color{red}[אמגודל \space 1 \space החיש]$$
 
 $${\color{red}[אמגודל \space 2 \space החיש]}$$
 
-## שיחה:
+### שיחה:
 
 
 
@@ -133,7 +133,7 @@ Ensure your argument line remains consistent throughout the discussion and avoid
 
 ---
 
-## Discussion Topics
+### Discussion Topics
 
 You must discuss the following five issues:
 
@@ -145,7 +145,7 @@ You must discuss the following five issues:
 
 ---
 
-## Your Stance and Confidence Level
+### Your Stance and Confidence Level
 
 1. $${\color{red}[Yes/No]}$$ – Confidence level: $${\color{red}[1–10]}$$  
 2. $${\color{red}[Yes/No]}$$ – Confidence level: $${\color{red}[1–10]}$$  
@@ -155,7 +155,7 @@ You must discuss the following five issues:
 
 ---
 
-## Sample Dialogues
+### Sample Dialogues
 
 $${\color{red}[Example \space Dialogue \space 1]}$$  
 $${\color{red}[Example \space Dialogue \space 2]}$$  
